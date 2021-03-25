@@ -1,4 +1,5 @@
-# Bookers for Engineer
+# エンジニアのための良書
+
 
 ## サイト概要
 エンジニアが自身のおすすめの技術書の情報や講評をSNS形式で気軽にシェアするアプリです。 初学者からベテランエンジニアまで技術書というものを通じて繋がり、交流を深められる手助けができるアプリになっています。
@@ -31,13 +32,10 @@ https://drive.google.com/file/d/1fVZy1-kZA-hzbWp4HrfljgxmTiMDkr3N/view?usp=shari
 ### WBS
 https://docs.google.com/spreadsheets/d/1UIEe3aswPfoaLeIGcCW8BCvjLjLQI04YsKqbWyDdR5Y/edit?usp=sharing
 
-### インフラ構成図
-
-
 
 ## 環境・使用技術
 ### 開発環境
-- OS：Linux(CentOS)
+- OS：Linux
 - DB : Sqlite3
 - IDE：Cloud9
 
@@ -50,17 +48,11 @@ https://docs.google.com/spreadsheets/d/1UIEe3aswPfoaLeIGcCW8BCvjLjLQI04YsKqbWyDd
 - Rails 5.2.4.4
 
 ### 本番環境
-- AWS 
+- AWS
 - MySQL2
 - Nginx、 Puma
-- Docker
-- Circle CI
-- Kubernetes
 
-### テスト
-- Rspec 
 
 ### その他主な使用技術
 - 非同期通信 (フォロー・いいね・コメント・チャット)
-- SPA
 
