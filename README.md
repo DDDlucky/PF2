@@ -1,4 +1,5 @@
-# Bookers for Engineers
+# エンジニアのための良書
+
 
 ## サイト概要
 エンジニアが自身のおすすめの技術書の情報や講評をSNS形式で気軽にシェアするアプリです。 初学者からベテランエンジニアまで技術書というものを通じて繋がり、交流を深められる手助けができるアプリになっています。
@@ -34,7 +35,7 @@ https://docs.google.com/spreadsheets/d/1UIEe3aswPfoaLeIGcCW8BCvjLjLQI04YsKqbWyDd
 
 ## 環境・使用技術
 ### 開発環境
-- OS：Linux(CentOS)
+- OS：Linux
 - DB : Sqlite3
 - IDE：Cloud9
 
